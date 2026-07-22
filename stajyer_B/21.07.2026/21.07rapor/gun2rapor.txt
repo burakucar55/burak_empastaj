@@ -1,0 +1,28 @@
+# Günlük Rapor — Gün 02
+
+| Alan | Değer |
+|------|-------|
+| **Stajyer** | B — Burak Uçar |
+| **Tarih** | 2026-07-21 |
+| **Konu** | Debounce, kısa / uzun basış, event |
+
+## Bugün ne yaptım?
+
+- mikroişlemci ve mikrodenetleyicilerin ne olduğunu, arasındaki farklarını dökümandan inceledim.
+bana verilen görevleri yapmaya çalıştım.Daha sonra kodların işlevlerine göre bölümlere ayırdım.
+
+## Görev durumu
+
+| Seviye | Yapıldı |
+|--------|---------|
+| Kolay | yapıldı |
+| Orta | yapıldı |
+| Zor | yapıldı |
+
+## Takıldığım yer
+
+- kodları işlevlerine göre ayırırken zorlandım.Yapay zekadan destek aldım.
+
+## Yarın
+
+- github'da verien görevleri yapmaya çalışıcam ve dökümanlara bakıcam.
